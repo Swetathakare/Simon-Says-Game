@@ -32,3 +32,9 @@ Computer flash :  Red
 User Click     :  Yellow Green Red
 
 If at any Point user clicks the incorrect box  that does not matches the sequence then the game will be reset.
+
+
+https://github.com/Swetathakare/Simon-Says-Game/assets/143093330/4dd196c9-b28a-46fc-8e3a-77806f5b7340
+
+
+
